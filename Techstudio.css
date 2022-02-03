@@ -4,7 +4,7 @@
      margin-left: 40px;
  }
   .nav{
-    margin-left: 35px;
+    margin-left: 150px;
     margin-top:20px ; 
     /* border-style: double; */
     width: 330px;
@@ -262,17 +262,10 @@ margin-left: 80px;
       width: 350px; 
   }
   .bootcamp{
-    margin-left: 46px;    
+    /* margin-left: 46px;     */
     width: 180px;  
 }
-  .expert{
-    /* width: 180px; */
-    /* margin-left: 122px; */
-  }
-  /* .develop{
-    margin-left: 5px;
-    width: 180px 
- } */
+ 
   .activities{
       display: flex;
       width: 100%;
@@ -280,57 +273,29 @@ margin-left: 80px;
       /* border-style: dotted; */
       /* padding-left: 250px; */
   }
-  .student{
-    /* width: 100%; */
-  }
   
-  .boot{
-    /* width: 100%; */
-  }
-  .skills{
-    /* width: 100%; */
-    /* /* width: 350px; */
-    /* height: 200px; */
-    /* margin-left: 500px; */
-    /* margin-top: -200px; */
-   }
   .dev{
       display: flex;
   }
   .week{
-      /* margin-left: 35px; */
-      /* margin-left: 71px; */
       /* width: 149px; */
       font-weight: bold;
       /* font-weight: 700; */
       /* text-transform: capitalize; */
   }
-  .writer{
-    /* width: 390px; */
-    /* margin-left: 20px; */
-}
-  .hands{
-    /* width: 406px;       */
-  }
-  .grad{
-    /* width: 400px; */
-    /* margin-top: 20px; */
-  }
- 
+
   .new{
-     /* margin-left: 80px; */
-     /* font-weight: bold; */
      font-weight: 700;
      /* width: 142px;      */
-     /* margin-left: 27px; */
+     margin-left: 27px;
   }
   .value{
-    /* margin-left: 42px; */
+    margin-left: 42px;
     font-weight: bold;
  }
   .containwhitesmoke{
     background-color: whitesmoke;
-    padding: 3%;
+    padding: 4%;
   }
   .become{
     text-align: center;
@@ -341,35 +306,41 @@ margin-left: 80px;
   }
  .developerweb{
     width: 50%;
-    padding: 1%;
+    /* padding: 1%; */
   }
   .Studentslife{
       display: flex;
   }
   .web{
-      width: 600px;
+      /* width: 600px; */
+      object-fit: contain;
+      max-height: 100%;
+      max-width: 100%;
   }
  
   .button{
       border-radius: 8px;
       color: white;
       background-color: #007bff;
-      border-color: #007bff;
+      /* border-color: #007bff; */
       height: 50px;
-      width: 35%; 
-      margin-left: 20px;
+      width: 54%; 
+      /* margin-left: 20px; */
+      border-style: none;
   }
    
   .experience{ 
      text-align: center;
+     padding: 2%;
   }
   .studentexperience{
-    margin-top: 80px;
+    /* margin-top: 80px; */
     /* border-style: dotted */
+    padding: 4%;
   }
   .imageexperience{
-      width: 70%;
-      margin-left: 200px;
+      width: 100%;
+      /* margin-left: 200px; */
       /* margin-top: 20px; */
       
   }
@@ -386,25 +357,18 @@ margin-left: 80px;
   }
 .General{
     display: flex;
-    padding-top: 30px;
+    padding: 4%;
 }
-.Fundamentals{
- padding-left: 34px;
- /* border-style: dotted; */
 
-}
-.frontend{
- padding-right:30px ;
- /* border-style: dotted; */
-
-}
 .but{
     height: 50px;
     border-radius: 12px;
-    border-color: #007bff;;
-    width: 30%;
+    /* border-color: #007bff;; */
+    width: 55%;
+    border-style: none;
     background-color: #007bff;
     color: white
+    
 }
 .header1 ,.header2,.header3,.header4,.header5,.header6,.header7,.header8,.header9{
 font-family: Calibri;
@@ -433,7 +397,7 @@ font-family: Calibri;
 
 
 .art{
-    padding: 20px;
+    /* padding: 20px; */
 }
 .fac{
     /* width: 50%; */
@@ -447,21 +411,27 @@ font-family: Calibri;
     
 }
 .learning{
-    border-style: solid;
-    padding: 15%;
-    margin-top: 100px;
+   border-style: solid;
+    padding: 2%;
+    margin-top: 42px;
     box-shadow: 1px 1px 20px 1px;
     border-color: white;
     background-color: white;
-    border-radius: 3%; 
-    height: 520px; 
+    border-radius: 3%;
+    /* height: 520px; */
+    font-size: 75%;
+    width: 347px;
 }
+
 .sta{
     /* border-style: dotted; */
     width: 50%;
 }
 .imaga{
-    width: 980px;
+    object-fit: contain;
+    max-width: 135%;
+    max-height: 100%;
+    /* width: 980px; */
     /* border-style: dotted; */
 }
 .text{
@@ -476,20 +446,24 @@ font-family: Calibri;
     color: #007bff;
 }
 .techstudio{
-    width: 600px;
+    /* width: 50%; */
+    object-fit: contain;
+    max-width: 100%;
+    max-height: 100%;
     /* border-style: dotted; */
 }
 .studioacademy{
-  width: 550px;
+  width: 387px;
   /* border-style: double; */
-  height: 500px;
+  /* height: 500px; */
+  padding: 3%;
   
   
   
 }
 .techcontainer{
     display: flex;
-    padding: 4%;
+    padding: 2%;
 }
 .acade{
     margin-left: 90px;
@@ -497,7 +471,9 @@ font-family: Calibri;
     /* border-style: double; */
 }
 .academy{
-    margin-bottom: 120px;
+    font-size: 15px; 
+    text-align: center;   
+    /* margin-bottom: 120px; */
     font-weight: bold;
 }
 .font,.prof,.career{
@@ -505,7 +481,7 @@ font-family: Calibri;
 }
 .flexcontain{
     display: flex;
-    padding: 0.25%;
+    padding: 2%;
 }
 .smileimage{
  width: 55%;
@@ -534,18 +510,21 @@ text-align: center;
 }
 .car{
     font-weight: bold;
+    padding: 2%;
 }
 .guide{
     font-weight: bold;
     font-family: Arial, 
 }
 .pac{
+    cursor: pointer;
     background-color: #007bff;
     color: white;
-    border-color: #007bff;
+    border-style: none;
+    /* border-color: #007bff; */
     border-radius: 5%;
     height: 50px;
-    width: 40%;
+    /* width: 40%; */
 }
 .our{
  padding: 5%;
@@ -558,20 +537,24 @@ text-align: center;
     margin-top: 5px;
 }
 .whitesmoke{
+    /* margin-right: 60px; */
     border-style: solid;
     background-color: whitesmoke;
     padding: 5%;
-    border-color: whitesmoke;
+    border-style: none;
+    /* border-color: whitesmoke; */
 }
 .interest{
-display: flex;
-background-color: #007bff;
-width: 60%;
-margin-left: 200px;
-height: 150px;
-border-style: solid;
-border-color: #007bff;
-border-radius: 10px;
+  display: flex;
+  border-style: none;
+  /* padding: 2%; */
+  background-color: #007bff;
+  width: 60%;
+    margin-left: 180px;
+  height: 185px;
+    /* border-style: solid; */
+    /* border-color: #007bff; */
+  border-radius: 10px;
 
 }
 .gram{
@@ -582,10 +565,11 @@ border-radius: 10px;
    
 }
 .what{
-   width: 50%;
-}
+    /* width: 55%; */
+    font-size: 11px;
+    margin-top: 19px;}
 .butget{
-    
+    cursor: pointer;
     height: 50px;
     width: 180px;
     border-radius: 5px;
@@ -595,18 +579,19 @@ border-radius: 10px;
 }
 .age{
     padding: 5%;
-    width: 20%;
-    margin-left: 100px;
+    /* width: 20%; */
+    /* margin-top: 30px; */
 }
 .frequently{
-    padding: 8%;
+    padding: 5%;
 }
 .headerques{
     text-align: center;
+    padding: 2%;
 }
 .betterflex{
     display: flex;
-    padding: 3%;
+    padding: 2%;
 }
 .better{
     width: 50%;
@@ -619,15 +604,18 @@ border-radius: 10px;
  font-weight: 700;
 }
 .gat{
-    border-color: #007bff;
+    /* border-color: #007bff; */
+    cursor: pointer;
+    border-style: none;
     background-color: #007bff;
     border-radius: 8px;
     color: white;
     height: 50px;
-    width: 40%
+    width: 45%
+    
 }
 .hear{
-    padding: 3%;
+    /* padding: 3%; */
 }
 .blue{
     background-color: #007bff;
@@ -655,11 +643,13 @@ border-radius: 10px;
     padding: 5%;
 }
 .weeks{
+    cursor: pointer;
+    border-style: none;
     border-radius: 7px;
-    border-color: #007bff;
+    /* border-color: #007bff; */
     background-color: #007bff;
     color: white;
-    width: 300px;
+    width: 248px;
     height: 50px;
 }
 .black{
@@ -670,10 +660,10 @@ border-radius: 10px;
     display: flex;
 }
 .letter{
-  margin-left: 300px;
+  margin-left: 81px;
 }
 .media{
- margin-left: 200px;
+ margin-left: 33px;
  color: white;
  
 
@@ -681,26 +671,32 @@ border-radius: 10px;
 .addy{
    color: white;
    margin-left: 8px;
+   width: 141px;
+   margin-top: 44px;
 }
 .me{
-    padding-right: 10%;
+    width: 23px;
+    /* padding-right: 10%; */
 }
 
 .logowhite{
     width: 30px;
     float: left;
+    margin-top: 42px;
 }
 .formnews{
+    border-style: none;
     border-color: white;
     margin-bottom: 20px;
     height: 55px;
-    width: 400px
+    width: 197px
 }
 .su{
+    border-style: none;
     background-color: #007bff;
-    border-color: #007bff;
+    /* border-color: #007bff; */
     height: 55px;
-    width: 400px
+    width: 203px
     
 }
 .up{
@@ -713,7 +709,7 @@ border-radius: 10px;
 
 
     body{
-        background-color: yellow;
+        /* background-color: yellow; */
     }
     .flexlogoarch{
         display: flex;
