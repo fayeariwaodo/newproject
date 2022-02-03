@@ -1,0 +1,2061 @@
+ .flexlogoarch{
+     display: flex;
+     /* padding: 0.50%; */
+     margin-left: 40px;
+ }
+  .nav{
+    margin-left: 35px;
+    margin-top:20px ; 
+    /* border-style: double; */
+    width: 330px;
+    
+  }
+  .Down,.Log,.Reg{
+      text-decoration: none;
+      padding-left: 5%;
+      font-weight: 490;
+  }
+ .logoclass{
+     width: 40px;
+     margin-top: 15px;
+ }
+ .icons{
+     width: 100%;
+ }
+ .Techaca{
+   margin-top: 15px;
+   margin-left: 5px;
+ }
+ .java{
+  /* margin-top: 20px; */
+  background-image: url(../IMAGETECHSTUDIO/bg\ \(3\).jpg);
+  height: 550px;
+  color: white;
+  padding: 1%;
+  display: flex;
+ }
+ .learnhead{
+     margin-top: 20px;
+     margin-left: 10px;
+    /* font-weight: 5px; */
+ }
+ .full{
+    margin-top: 25px;
+    margin-left: 25px;
+    width: 85%;
+ }
+ .javacontain{
+     /* display: flex; */
+     width: 55%;
+
+ }
+ .pap{
+     padding-top:  3%;
+     /* padding-left: 3%; */
+
+     width: 45%;
+ }
+ .papa{
+     border-style: solid;
+     border-color: white;
+      width: 80%;
+      background-color: white;
+      color: black;
+      /* width: 450x; */
+     /* margin-left: 200px; */
+     padding: 2%;
+     /* margin-top:50px ; */
+     /* height: 450px; */
+     /* border-style: dotted; */
+     /* margin-left: 70px; */
+     
+ }
+ .faye{
+    width: 45%;
+    height: 55px;
+    border-style: solid;
+    font-size: large;
+    margin-left: 10px;
+ }
+    
+.Aloaye{
+    width: 45%;
+    height: 55px;
+    border-style: solid;
+    font-size: large;
+    margin-left: 10px;
+  
+}
+.techie{
+    width: 95%;
+    height: 55px;
+    border-style: solid;
+    font-size: large;
+    margin-left: 10px;
+}
+ .techphone{
+    width: 95%;
+    height: 55px;
+    border-style: solid;
+    font-size: large;
+    margin-left: 10px;
+ }
+ .move{
+    width: 95%;
+    height: 55px;
+    background-color: #007bff;
+    /* border-color: #007bff; */
+    font-weight: 400;
+    border-style: none;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 3px;
+    color: white;
+    /* margin-right: 50px; */
+    /* margin-bottom: 40px; */
+    margin-left: 10px;
+ }
+ .form{
+    margin-top:  6%;
+    /* height: 330px; */
+    /* width: 100%; */
+   }
+   .add{
+  display: flex;
+  width: 600px;
+  margin-top: -240px;
+  /* margin-left: 60pxpx; */
+   }
+   .seperate{
+    width: 120%;
+    /* margin-top: 40px; */
+    /* margin-left: -35px; */
+}
+.yes{
+  width: 300px;
+}
+.date{
+    margin-left: 50px;
+}
+.time{
+margin-left: 80px;
+}
+.Studio1{
+ margin-left: 100px;
+ width: 5%;
+
+}
+   .div1{
+       margin-left: -330px; 
+       margin-top: 30px;
+       height: 70px;
+       width: 80%; 
+   }
+   .div2{
+       height: 70px;
+       width: 80%;
+       margin-bottom:-60px;
+   }
+   .text1{
+       font-weight: bold;
+   }
+   .text2{
+     margin-bottom: -30px;
+
+   }
+   .div2{
+       margin-top: 6px;
+   }
+   .enrolled{
+    /* margin-left: 100px; */
+    width: 135%;
+    display: flex;
+    justify-content: space-between;
+   }
+   .joseph{
+   border-radius: 60%;
+   width: 120px;
+   font-size: medium;
+   text-align: center;
+   }
+   /* .peter{
+    border-radius: 60%;
+    width: 230px;
+    font-size: medium;
+  
+   }
+   .rilwan{
+    border-radius: 60%;
+    width: 230px;
+    font-size: medium;
+    margin-left: 180px; */
+  
+   
+   .testimonials{
+    /* display: flex; */
+    /* height: 900px; */
+    /* margin-top: 100px; */
+    /* text-align: center; */
+    background-color: white;
+    padding: 5%;
+    
+   }
+   .test{
+       display: flex;
+       text-align: center;
+   }
+   .joetestimonial{
+    /* border-style: solid; */
+    width: 50%;
+    /* height: 400px;
+    margin-left: 40px;
+    margin-top: 50px; */
+   }
+   .ptestimonial{
+    /* border-style: solid; */
+    width: 50%;
+    /* height: 400px; */
+    /* margin-right:30px ;
+    margin-top: 50px;  
+    padding: 20px; */
+}
+   .rilwantestimonial{
+    /* border-style: solid; */
+    width: 45%;
+    text-align: center;
+    /* height: 450px; */
+    margin-left: 25%;
+    /* margin-top: -490px;   */
+
+   }
+   .Friya{
+     justify-content: center;
+       color: #dc3545;
+       font-weight: bolder;
+   }
+   .breathe{
+    justify-content: center;
+    color:#dc3545 ;
+    font-weight: bolder;
+   }
+   .red{
+       margin-bottom: 100px;
+       font-weight: bolder;
+       color:#dc3545
+   }
+   .rilred{
+    font-weight: bolder;
+   }
+   .friya1{
+       font-weight: bolder;
+   }
+   .breathe1{
+       font-weight: bolder;
+       }
+ .comment2{
+        margin-left: 50px;
+   }
+  .rilcent{
+      /* margin-left: 140px; */
+      /* margin-bottom: 300px; */
+      /* border-style: double; */
+      width: 350px; 
+  }
+  .bootcamp{
+    margin-left: 46px;    
+    width: 180px;  
+}
+  .expert{
+    /* width: 180px; */
+    /* margin-left: 122px; */
+  }
+  /* .develop{
+    margin-left: 5px;
+    width: 180px 
+ } */
+  .activities{
+      display: flex;
+      width: 100%;
+      padding: 5%;  
+      /* border-style: dotted; */
+      /* padding-left: 250px; */
+  }
+  .student{
+    /* width: 100%; */
+  }
+  
+  .boot{
+    /* width: 100%; */
+  }
+  .skills{
+    /* width: 100%; */
+    /* /* width: 350px; */
+    /* height: 200px; */
+    /* margin-left: 500px; */
+    /* margin-top: -200px; */
+   }
+  .dev{
+      display: flex;
+  }
+  .week{
+      /* margin-left: 35px; */
+      /* margin-left: 71px; */
+      /* width: 149px; */
+      font-weight: bold;
+      /* font-weight: 700; */
+      /* text-transform: capitalize; */
+  }
+  .writer{
+    /* width: 390px; */
+    /* margin-left: 20px; */
+}
+  .hands{
+    /* width: 406px;       */
+  }
+  .grad{
+    /* width: 400px; */
+    /* margin-top: 20px; */
+  }
+ 
+  .new{
+     /* margin-left: 80px; */
+     /* font-weight: bold; */
+     font-weight: 700;
+     /* width: 142px;      */
+     /* margin-left: 27px; */
+  }
+  .value{
+    /* margin-left: 42px; */
+    font-weight: bold;
+ }
+  .containwhitesmoke{
+    background-color: whitesmoke;
+    padding: 3%;
+  }
+  .become{
+    text-align: center;
+    padding: 2%;
+  }
+  .studioimaga{
+    width:50%
+  }
+ .developerweb{
+    width: 50%;
+    padding: 1%;
+  }
+  .Studentslife{
+      display: flex;
+  }
+  .web{
+      width: 600px;
+  }
+ 
+  .button{
+      border-radius: 8px;
+      color: white;
+      background-color: #007bff;
+      border-color: #007bff;
+      height: 50px;
+      width: 35%; 
+      margin-left: 20px;
+  }
+   
+  .experience{ 
+     text-align: center;
+  }
+  .studentexperience{
+    margin-top: 80px;
+    /* border-style: dotted */
+  }
+  .imageexperience{
+      width: 70%;
+      margin-left: 200px;
+      /* margin-top: 20px; */
+      
+  }
+  .stu{
+      font-weight: bolder;
+      font-size: 1.6px;
+  }
+  .imgsticky{
+   position: -webkit-sticky;
+   position: sticky;
+   left:1135px;
+   bottom: 90px
+
+  }
+.General{
+    display: flex;
+    padding-top: 30px;
+}
+.Fundamentals{
+ padding-left: 34px;
+ /* border-style: dotted; */
+
+}
+.frontend{
+ padding-right:30px ;
+ /* border-style: dotted; */
+
+}
+.but{
+    height: 50px;
+    border-radius: 12px;
+    border-color: #007bff;;
+    width: 30%;
+    background-color: #007bff;
+    color: white
+}
+.header1 ,.header2,.header3,.header4,.header5,.header6,.header7,.header8,.header9{
+font-family: Calibri;
+}
+/* .studentpicimage{
+    margin-top: 200px;
+    width: 66%;
+}
+.facility{
+    border-style: solid;
+    height: 360px;
+    width: 50%;  
+   margin-top: 200px;
+}
+.bold{
+    padding: 5%;
+    text-align: center;
+    border-style: dashed;
+    margin-top: 50px;
+
+    
+}
+.State{
+    display: flex;
+} */
+
+
+.art{
+    padding: 20px;
+}
+.fac{
+    /* width: 50%; */
+    background-color: whitesmoke; 
+    display: flex;
+}
+.learn{
+   
+    /* margin-bottom: 20px; */
+    width: 44%
+    
+}
+.learning{
+    border-style: solid;
+    padding: 15%;
+    margin-top: 100px;
+    box-shadow: 1px 1px 20px 1px;
+    border-color: white;
+    background-color: white;
+    border-radius: 3%; 
+    height: 520px; 
+}
+.sta{
+    /* border-style: dotted; */
+    width: 50%;
+}
+.imaga{
+    width: 980px;
+    /* border-style: dotted; */
+}
+.text{
+    text-align: center;
+}
+.art{
+    padding: 5%;
+    background-color: whitesmoke;
+} 
+.link{
+    cursor: pointer;
+    color: #007bff;
+}
+.techstudio{
+    width: 600px;
+    /* border-style: dotted; */
+}
+.studioacademy{
+  width: 550px;
+  /* border-style: double; */
+  height: 500px;
+  
+  
+  
+}
+.techcontainer{
+    display: flex;
+    padding: 4%;
+}
+.acade{
+    margin-left: 90px;
+    /* padding-right: 80%; */
+    /* border-style: double; */
+}
+.academy{
+    margin-bottom: 120px;
+    font-weight: bold;
+}
+.font,.prof,.career{
+    font-weight: 700;
+}
+.flexcontain{
+    display: flex;
+    padding: 0.25%;
+}
+.smileimage{
+ width: 55%;
+ /* border-style: double; */
+}
+.excellent{
+width: 45%;
+/* border-style: solid; */
+/* padding: 5%; */
+
+
+}
+.careerimage{
+ /* width:610px;
+ margin-left: 60px; */
+ max-width: 100%;
+ max-height: 100%;
+ object-fit: contain;
+}
+.overallcontainer{
+    padding: 18%;
+}
+.sup{
+text-align: center;
+
+}
+.car{
+    font-weight: bold;
+}
+.guide{
+    font-weight: bold;
+    font-family: Arial, 
+}
+.pac{
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+    border-radius: 5%;
+    height: 50px;
+    width: 40%;
+}
+.our{
+ padding: 5%;
+}
+.support{
+ padding-left: 10%;
+}
+.as{
+    padding: 2%;
+    margin-top: 5px;
+}
+.whitesmoke{
+    border-style: solid;
+    background-color: whitesmoke;
+    padding: 5%;
+    border-color: whitesmoke;
+}
+.interest{
+display: flex;
+background-color: #007bff;
+width: 60%;
+margin-left: 200px;
+height: 150px;
+border-style: solid;
+border-color: #007bff;
+border-radius: 10px;
+
+}
+.gram{
+    margin-left: 100px;
+    margin-top: 20px;
+    color: white;
+    font-weight: 600 ;
+   
+}
+.what{
+   width: 50%;
+}
+.butget{
+    
+    height: 50px;
+    width: 180px;
+    border-radius: 5px;
+    border-color: #007bff;
+    color: #007bff;
+    background-color: white   
+}
+.age{
+    padding: 5%;
+    width: 20%;
+    margin-left: 100px;
+}
+.frequently{
+    padding: 8%;
+}
+.headerques{
+    text-align: center;
+}
+.betterflex{
+    display: flex;
+    padding: 3%;
+}
+.better{
+    width: 50%;
+
+}
+.Expect{
+    width: 50%;
+}
+.asked,.why,.pactical,.with,.To,.in{
+ font-weight: 700;
+}
+.gat{
+    border-color: #007bff;
+    background-color: #007bff;
+    border-radius: 8px;
+    color: white;
+    height: 50px;
+    width: 40%
+}
+.hear{
+    padding: 3%;
+}
+.blue{
+    background-color: #007bff;
+    padding: 10%;
+}
+
+.flexer{
+    display: flex;
+   
+}
+.started{
+    border-style: solid;
+    width: 60%;
+    background-color: white;
+    border-color: white;
+    padding: 5%;
+   
+}
+.Red{
+    border-style: solid;
+    width: 40%;
+    background-color: #dc3545;
+    margin-left: 60px;
+    border-color: #dc3545;
+    padding: 5%;
+}
+.weeks{
+    border-radius: 7px;
+    border-color: #007bff;
+    background-color: #007bff;
+    color: white;
+    width: 300px;
+    height: 50px;
+}
+.black{
+    background-color: black;
+    padding: 5%;
+}
+.flexme{
+    display: flex;
+}
+.letter{
+  margin-left: 300px;
+}
+.media{
+ margin-left: 200px;
+ color: white;
+ 
+
+}
+.addy{
+   color: white;
+   margin-left: 8px;
+}
+.me{
+    padding-right: 10%;
+}
+
+.logowhite{
+    width: 30px;
+    float: left;
+}
+.formnews{
+    border-color: white;
+    margin-bottom: 20px;
+    height: 55px;
+    width: 400px
+}
+.su{
+    background-color: #007bff;
+    border-color: #007bff;
+    height: 55px;
+    width: 400px
+    
+}
+.up{
+    color: white;
+}
+
+
+
+@media (max-width: 768px) {
+
+
+    body{
+        background-color: yellow;
+    }
+    .flexlogoarch{
+        display: flex;
+        padding: 0.50%;
+        margin-left: 100px;
+    }
+     .nav{
+       margin-left: 400px;
+       margin-top:20px ; 
+       /* border-style: double; */
+       width: 330px;
+       
+     }
+     .Down,.Log,.Reg{
+         text-decoration: none;
+         padding-left: 5%;
+         font-weight: 490;
+     }
+    .logoclass{
+        width: 40px;
+        margin-top: 15px;
+    }
+    .Techaca{
+      margin-top: 15px;
+      margin-left: 5px;
+    }
+    .java{
+     /* margin-top: 20px; */
+     background-image: url(../IMAGETECHSTUDIO/bg\ \(3\).jpg);
+     height: 550px;
+     color: white;
+     padding: 1%;
+    }
+    .learnhead{
+        margin-top: 45px;
+        margin-left: 30px;
+       font-weight: 5px;
+    }
+    .full{
+       margin-top: 60px;
+       margin-left: 100px;
+    }
+    .javacontain{
+        display: flex;
+   
+    }
+    .papa{
+        border-style: solid;
+        border-color: white;
+         width: 35%;
+         background-color: white;
+         color: black;
+         /* width: 450x; */
+        /* margin-left: 200px; */
+        padding: 3px;
+        margin-top:50px ;
+        height: 450px;
+        /* border-style: dotted; */
+        margin-left: 70px;
+        
+    }
+    .faye{
+       width: 45%;
+       height: 55px;
+       border-style: solid;
+       font-size: large;
+       margin-left: 40px;
+    }
+       
+   .Aloaye{
+       width: 35%;
+       height: 55px;
+       border-style: solid;
+       font-size: large;
+     
+   }
+   .techie{
+       width: 85%;
+       height: 55px;
+       border-style: solid; 
+       font-size: large;
+       margin-left: 40px;
+   }
+    .techphone{
+       width: 85%;
+       height: 55px;
+       border-style: solid; 
+       font-size: large;
+       margin-left: 27px;
+    }
+    .move{
+       width: 85%;
+       height: 55px;
+       background-color: #007bff;
+       border-color: #007bff;
+       font-weight: 400;
+       text-align: center;
+       vertical-align: middle;
+       border-radius: 3px;
+       color: white;
+       margin-right: 50px;
+       margin-bottom: 40px;
+       margin-left: 40px;
+    }
+    .form{
+       /* margin-top:  px; */
+       height: 330px;
+       width: 100%;
+      }
+      .add{
+     display: flex;
+     width: 600px;
+     margin-top: -240px;
+     /* margin-left: 60pxpx; */
+      }
+      .seperate{
+       width: 300px;
+       margin-top: 40px;
+       margin-left: -35px;
+   }
+   .yes{
+     width: 300px;
+   }
+   .date{
+       margin-left: 50px;
+   }
+   .time{
+   margin-left: 80px;
+   }
+   .Studio1{
+    margin-left: 100px;
+    width: 5%;
+   
+   }
+      .div1{
+          margin-left: -330px; 
+          margin-top: 30px;
+          height: 70px;
+          width: 80%; 
+      }
+      .div2{
+          height: 70px;
+          width: 80%;
+          margin-bottom:-60px;
+      }
+      .text1{
+          font-weight: bold;
+      }
+      .text2{
+        margin-bottom: -30px;
+   
+      }
+      .div2{
+          margin-top: 6px;
+      }
+      .enrolled{
+       margin-left: 100px;
+      }
+      .joseph{
+      border-radius: 60%;
+      width: 22%;
+      font-size: medium;
+      }
+      .peter{
+       border-radius: 60%;
+       width: 22%;
+       font-size: medium;
+     
+      }
+      .rilwan{
+       border-radius: 60%;
+       width: 22%;
+       font-size: medium;
+       margin-left: 180px;
+     
+      }
+      .testimonials{
+       display: flex;
+       height: 900px;
+       /* margin-top: 100px; */
+       text-align: center;
+       background-color: white;
+       
+      }
+      .joetestimonial{
+       /* border-style: solid; */
+       width: 48%;
+       height: 400px;
+       margin-left: 40px;
+       margin-top: 50px;
+      }
+      .ptestimonial{
+       /* border-style: solid; */
+       width: 49%;
+       height: 400px;
+       margin-right:30px ;
+       margin-top: 50px;  
+       padding: 20px;
+   }
+      .rilwantestimonial{
+       /* border-style: solid; */
+       width: 45%;
+       height: 450px;
+       margin-left: 400px;
+       margin-top: -490px;  
+   
+      }
+      .Friya{
+        justify-content: center;
+          color: #dc3545;
+          font-weight: bolder;
+      }
+      .breathe{
+       justify-content: center;
+       color:#dc3545 ;
+       font-weight: bolder;
+      }
+      .red{
+          margin-bottom: 100px;
+          font-weight: bolder;
+          color:#dc3545
+      }
+      .rilred{
+       font-weight: bolder;
+      }
+      .friya1{
+          font-weight: bolder;
+      }
+      .breathe1{
+          font-weight: bolder;
+          }
+    .comment2{
+           margin-left: 50px;
+      }
+     .rilcent{
+         margin-left: 140px;
+         /* margin-bottom: 300px; */
+         /* border-style: double; */
+         width: 350px; 
+     }
+     .bootcamp{
+         margin-left: -100px;
+     }
+     .expert{
+         margin-left: 250px;
+   
+     }
+     .develop{
+      margin-left: 210px;
+     }
+     .activities{
+         /* border-style: dotted; */
+         padding-left: 250px;
+     }
+     .boot{
+      width: 350px;
+      height: 200px;
+      margin-left: 100px; 
+     }
+     .dev{
+         display: flex;
+     }
+     .week{
+         margin-left: 30px;
+         font-weight: bold;
+         font-weight: 700;
+         text-transform: capitalize;
+     }
+     .skills{
+      width: 350px;
+      height: 200px;
+      margin-left: 500px;
+      margin-top: -200px;
+     }
+     .new{
+        margin-left: 80px;
+        font-weight: bold;
+        font-weight: 700;
+        text-transform: capitalize;
+     }
+     .student{
+       width: 350px;
+       height: 200px;
+       margin-left: 900px; 
+       margin-top: -200px;
+     }
+     .value{
+       margin-left: 100px;
+       font-weight: bold;
+       font-weight: 700;
+       text-transform: capitalize;
+     }
+     .containwhitesmoke{
+       background-color: whitesmoke;
+       padding: 3%;
+     }
+     .become{
+       text-align: center;
+       padding: 2%;
+     }
+     .studioimaga{
+       width:50%
+     }
+    .developerweb{
+       width: 50%;
+       padding: 1%;
+     }
+     .Studentslife{
+         display: flex;
+     }
+     .web{
+         width: 600px;
+     }
+    
+     .button{
+         border-radius: 8px;
+         color: white;
+         background-color: #007bff;
+         border-color: #007bff;
+         height: 50px;
+         width: 35%; 
+         margin-left: 20px;
+     }
+      
+     .experience{ 
+        text-align: center;
+     }
+     .studentexperience{
+       margin-top: 80px;
+       /* border-style: dotted */
+     }
+     .imageexperience{
+         width: 70%;
+         margin-left: 200px;
+         /* margin-top: 20px; */
+         
+     }
+     .stu{
+         font-weight: bolder;
+         font-size: 1.6px;
+     }
+     .imgsticky{
+      position: -webkit-sticky;
+      position: sticky;
+      left:1135px;
+      bottom: 90px
+   
+     }
+   .General{
+       display: flex;
+       padding-top: 30px;
+   }
+   .Fundamentals{
+    padding-left: 34px;
+    /* border-style: dotted; */
+   
+   }
+   .frontend{
+    padding-right:30px ;
+    /* border-style: dotted; */
+   
+   }
+   .but{
+       height: 50px;
+       border-radius: 12px;
+       border-color: #007bff;;
+       width: 30%;
+       background-color: #007bff;
+       color: white
+   }
+   .header1 ,.header2,.header3,.header4,.header5,.header6,.header7,.header8,.header9{
+   font-family: Calibri;
+   }
+   /* .studentpicimage{
+       margin-top: 200px;
+       width: 66%;
+   }
+   .facility{
+       border-style: solid;
+       height: 360px;
+       width: 50%;  
+      margin-top: 200px;
+   }
+   .bold{
+       padding: 5%;
+       text-align: center;
+       border-style: dashed;
+       margin-top: 50px;
+   
+       
+   }
+   .State{
+       display: flex;
+   } */
+   
+   
+   .art{
+       padding: 20px;
+   }
+   .fac{
+       /* width: 50%; */
+       background-color: whitesmoke; 
+       display: flex;
+   }
+   .learn{
+      
+       /* margin-bottom: 20px; */
+       width: 44%
+       
+   }
+   .learning{
+       border-style: solid;
+       padding: 15%;
+       margin-top: 100px;
+       box-shadow: 1px 1px 20px 1px;
+       border-color: white;
+       background-color: white;
+       border-radius: 3%; 
+       height: 520px; 
+   }
+   .sta{
+       /* border-style: dotted; */
+       width: 50%;
+   }
+   .imaga{
+       width: 980px;
+       /* border-style: dotted; */
+   }
+   .text{
+       text-align: center;
+   }
+   .art{
+       padding: 5%;
+       background-color: whitesmoke;
+   } 
+   .link{
+       cursor: pointer;
+       color: #007bff;
+   }
+   .techstudio{
+       width: 600px;
+       /* border-style: dotted; */
+   }
+   .studioacademy{
+     width: 550px;
+     /* border-style: double; */
+     height: 500px;
+     
+     
+     
+   }
+   .techcontainer{
+       display: flex;
+       padding: 4%;
+   }
+   .acade{
+       margin-left: 90px;
+       /* padding-right: 80%; */
+       /* border-style: double; */
+   }
+   .academy{
+       margin-bottom: 120px;
+       font-weight: bold;
+   }
+   .font,.prof,.career{
+       font-weight: 700;
+   }
+   .flexcontain{
+       display: flex;
+       padding: 0.25%;
+   }
+   .smileimage{
+    width: 50%;
+    /* border-style: double; */
+   }
+   .excellent{
+   width: 50%;
+   /* border-style: solid; */
+   padding: 5%;
+   
+   
+   }
+   .careerimage{
+    width:700px;
+    margin-left: 60px;
+   }
+   .overallcontainer{
+       padding: 18%;
+   }
+   .sup{
+   text-align: center;
+   
+   }
+   .car{
+       font-weight: bold;
+   }
+   .guide{
+       font-weight: bold;
+       font-family: Arial, 
+   }
+   .pac{
+       background-color: #007bff;
+       color: white;
+       border-color: #007bff;
+       border-radius: 5%;
+       height: 50px;
+       width: 40%;
+   }
+   .our{
+    padding: 5%;
+   }
+   .support{
+    padding-left: 10%;
+   }
+   .as{
+       padding: 2%;
+       margin-top: 5px;
+   }
+   .whitesmoke{
+       border-style: solid;
+       background-color: whitesmoke;
+       padding: 5%;
+       border-color: whitesmoke;
+   }
+   .interest{
+   display: flex;
+   background-color: #007bff;
+   width: 60%;
+   margin-left: 200px;
+   height: 150px;
+   border-style: solid;
+   border-color: #007bff;
+   border-radius: 10px;
+   
+   }
+   .gram{
+       margin-left: 100px;
+       margin-top: 20px;
+       color: white;
+       font-weight: 600 ;
+      
+   }
+   .what{
+      width: 50%;
+   }
+   .butget{
+       
+       height: 50px;
+       width: 180px;
+       border-radius: 5px;
+       border-color: #007bff;
+       color: #007bff;
+       background-color: white   
+   }
+   .age{
+       padding: 5%;
+       width: 20%;
+       margin-left: 100px;
+   }
+   .frequently{
+       padding: 8%;
+   }
+   .headerques{
+       text-align: center;
+   }
+   .betterflex{
+       display: flex;
+       padding: 3%;
+   }
+   .better{
+       width: 50%;
+   
+   }
+   .Expect{
+       width: 50%;
+   }
+   .asked,.why,.pactical,.with,.To,.in{
+    font-weight: 700;
+   }
+   .gat{
+       border-color: #007bff;
+       background-color: #007bff;
+       border-radius: 8px;
+       color: white;
+       height: 50px;
+       width: 40%
+   }
+   .hear{
+       padding: 3%;
+   }
+   .blue{
+       background-color: #007bff;
+       padding: 10%;
+   }
+   
+   .flexer{
+       display: flex;
+      
+   }
+   .started{
+       border-style: solid;
+       width: 60%;
+       background-color: white;
+       border-color: white;
+       padding: 5%;
+      
+   }
+   .Red{
+       border-style: solid;
+       width: 40%;
+       background-color: #dc3545;
+       margin-left: 60px;
+       border-color: #dc3545;
+       padding: 5%;
+   }
+   .weeks{
+       border-radius: 7px;
+       border-color: #007bff;
+       background-color: #007bff;
+       color: white;
+       width: 300px;
+       height: 50px;
+   }
+   .black{
+       background-color: black;
+       padding: 5%;
+   }
+   .flexme{
+       display: flex;
+   }
+   .letter{
+     margin-left: 300px;
+   }
+   .media{
+    margin-left: 200px;
+    color: white;
+    
+   
+   }
+   .addy{
+      color: white;
+      margin-left: 8px;
+   }
+   .me{
+       padding-right: 10%;
+   }
+   
+   .logowhite{
+       width: 30px;
+       float: left;
+   }
+   .formnews{
+       border-color: white;
+       margin-bottom: 20px;
+       height: 55px;
+       width: 400px
+   }
+   .su{
+       background-color: #007bff;
+       border-color: #007bff;
+       height: 55px;
+       width: 400px
+       
+   }
+   .up{
+       color: white;
+   }
+}
+
+
+@media (max-width: 425px) {
+
+    body{
+        background-color: rgb(0, 255, 55);
+    }
+
+    .flexlogoarch{
+        display: flex;
+        padding: 0.50%;
+        margin-left: 100px;
+    }
+     .nav{
+       margin-left: 400px;
+       margin-top:20px ; 
+       /* border-style: double; */
+       width: 330px;
+       
+     }
+     .Down,.Log,.Reg{
+         text-decoration: none;
+         padding-left: 5%;
+         font-weight: 490;
+     }
+    .logoclass{
+        width: 40px;
+        margin-top: 15px;
+    }
+    .Techaca{
+      margin-top: 15px;
+      margin-left: 5px;
+    }
+    .java{
+     /* margin-top: 20px; */
+     background-image: url(../IMAGETECHSTUDIO/bg\ \(3\).jpg);
+     height: 550px;
+     color: white;
+     padding: 1%;
+    }
+    .learnhead{
+        margin-top: 45px;
+        margin-left: 30px;
+       font-weight: 5px;
+    }
+    .full{
+       margin-top: 60px;
+       margin-left: 100px;
+    }
+    .javacontain{
+        display: flex;
+   
+    }
+    .papa{
+        border-style: solid;
+        border-color: white;
+         width: 35%;
+         background-color: white;
+         color: black;
+         /* width: 450x; */
+        /* margin-left: 200px; */
+        padding: 3px;
+        margin-top:50px ;
+        height: 450px;
+        /* border-style: dotted; */
+        margin-left: 70px;
+        
+    }
+    .faye{
+       width: 45%;
+       height: 55px;
+       border-style: solid;
+       font-size: large;
+       margin-left: 40px;
+    }
+       
+   .Aloaye{
+       width: 35%;
+       height: 55px;
+       border-style: solid;
+       font-size: large;
+     
+   }
+   .techie{
+       width: 85%;
+       height: 55px;
+       border-style: solid; 
+       font-size: large;
+       margin-left: 40px;
+   }
+    .techphone{
+       width: 85%;
+       height: 55px;
+       border-style: solid; 
+       font-size: large;
+       margin-left: 27px;
+    }
+    .move{
+       width: 85%;
+       height: 55px;
+       background-color: #007bff;
+       border-color: #007bff;
+       font-weight: 400;
+       text-align: center;
+       vertical-align: middle;
+       border-radius: 3px;
+       color: white;
+       margin-right: 50px;
+       margin-bottom: 40px;
+       margin-left: 40px;
+    }
+    .form{
+       /* margin-top:  px; */
+       height: 330px;
+       width: 100%;
+      }
+      .add{
+     display: flex;
+     width: 600px;
+     margin-top: -240px;
+     /* margin-left: 60pxpx; */
+      }
+      .seperate{
+       width: 300px;
+       margin-top: 40px;
+       margin-left: -35px;
+   }
+   .yes{
+     width: 300px;
+   }
+   .date{
+       margin-left: 50px;
+   }
+   .time{
+   margin-left: 80px;
+   }
+   .Studio1{
+    margin-left: 100px;
+    width: 5%;
+   
+   }
+      .div1{
+          margin-left: -330px; 
+          margin-top: 30px;
+          height: 70px;
+          width: 80%; 
+      }
+      .div2{
+          height: 70px;
+          width: 80%;
+          margin-bottom:-60px;
+      }
+      .text1{
+          font-weight: bold;
+      }
+      .text2{
+        margin-bottom: -30px;
+   
+      }
+      .div2{
+          margin-top: 6px;
+      }
+      .enrolled{
+       margin-left: 100px;
+      }
+      .joseph{
+      border-radius: 60%;
+      width: 22%;
+      font-size: medium;
+      }
+      .peter{
+       border-radius: 60%;
+       width: 22%;
+       font-size: medium;
+     
+      }
+      .rilwan{
+       border-radius: 60%;
+       width: 22%;
+       font-size: medium;
+       margin-left: 180px;
+     
+      }
+      .testimonials{
+       display: flex;
+       height: 900px;
+       /* margin-top: 100px; */
+       text-align: center;
+       background-color: white;
+       
+      }
+      .joetestimonial{
+       /* border-style: solid; */
+       width: 48%;
+       height: 400px;
+       margin-left: 40px;
+       margin-top: 50px;
+      }
+      .ptestimonial{
+       /* border-style: solid; */
+       width: 49%;
+       height: 400px;
+       margin-right:30px ;
+       margin-top: 50px;  
+       padding: 20px;
+   }
+      .rilwantestimonial{
+       /* border-style: solid; */
+       width: 45%;
+       height: 450px;
+       margin-left: 400px;
+       margin-top: -490px;  
+   
+      }
+      .Friya{
+        justify-content: center;
+          color: #dc3545;
+          font-weight: bolder;
+      }
+      .breathe{
+       justify-content: center;
+       color:#dc3545 ;
+       font-weight: bolder;
+      }
+      .red{
+          margin-bottom: 100px;
+          font-weight: bolder;
+          color:#dc3545
+      }
+      .rilred{
+       font-weight: bolder;
+      }
+      .friya1{
+          font-weight: bolder;
+      }
+      .breathe1{
+          font-weight: bolder;
+          }
+    .comment2{
+           margin-left: 50px;
+      }
+     .rilcent{
+         margin-left: 140px;
+         /* margin-bottom: 300px; */
+         /* border-style: double; */
+         width: 350px; 
+     }
+     .bootcamp{
+         margin-left: -100px;
+     }
+     .expert{
+         margin-left: 250px;
+   
+     }
+     .develop{
+      margin-left: 210px;
+     }
+     .activities{
+         /* border-style: dotted; */
+         padding-left: 250px;
+     }
+     .boot{
+      width: 350px;
+      height: 200px;
+      margin-left: 100px; 
+     }
+     .dev{
+         display: flex;
+     }
+     .week{
+         margin-left: 30px;
+         font-weight: bold;
+         font-weight: 700;
+         text-transform: capitalize;
+     }
+     .skills{
+      width: 350px;
+      height: 200px;
+      margin-left: 500px;
+      margin-top: -200px;
+     }
+     .new{
+        margin-left: 80px;
+        font-weight: bold;
+        font-weight: 700;
+        text-transform: capitalize;
+     }
+     .student{
+       width: 350px;
+       height: 200px;
+       margin-left: 900px; 
+       margin-top: -200px;
+     }
+     .value{
+       margin-left: 100px;
+       font-weight: bold;
+       font-weight: 700;
+       text-transform: capitalize;
+     }
+     .containwhitesmoke{
+       background-color: whitesmoke;
+       padding: 3%;
+     }
+     .become{
+       text-align: center;
+       padding: 2%;
+     }
+     .studioimaga{
+       width:50%
+     }
+    .developerweb{
+       width: 50%;
+       padding: 1%;
+     }
+     .Studentslife{
+         display: flex;
+     }
+     .web{
+         width: 600px;
+     }
+    
+     .button{
+         border-radius: 8px;
+         color: white;
+         background-color: #007bff;
+         border-color: #007bff;
+         height: 50px;
+         width: 35%; 
+         margin-left: 20px;
+     }
+      
+     .experience{ 
+        text-align: center;
+     }
+     .studentexperience{
+       margin-top: 80px;
+       /* border-style: dotted */
+     }
+     .imageexperience{
+         width: 70%;
+         margin-left: 200px;
+         /* margin-top: 20px; */
+         
+     }
+     .stu{
+         font-weight: bolder;
+         font-size: 1.6px;
+     }
+     .imgsticky{
+      position: -webkit-sticky;
+      position: sticky;
+      left:1135px;
+      bottom: 90px
+   
+     }
+   .General{
+       display: flex;
+       padding-top: 30px;
+   }
+   .Fundamentals{
+    padding-left: 34px;
+    /* border-style: dotted; */
+   
+   }
+   .frontend{
+    padding-right:30px ;
+    /* border-style: dotted; */
+   
+   }
+   .but{
+       height: 50px;
+       border-radius: 12px;
+       border-color: #007bff;;
+       width: 30%;
+       background-color: #007bff;
+       color: white
+   }
+   .header1 ,.header2,.header3,.header4,.header5,.header6,.header7,.header8,.header9{
+   font-family: Calibri;
+   }
+   /* .studentpicimage{
+       margin-top: 200px;
+       width: 66%;
+   }
+   .facility{
+       border-style: solid;
+       height: 360px;
+       width: 50%;  
+      margin-top: 200px;
+   }
+   .bold{
+       padding: 5%;
+       text-align: center;
+       border-style: dashed;
+       margin-top: 50px;
+   
+       
+   }
+   .State{
+       display: flex;
+   } */
+   
+   
+   .art{
+       padding: 20px;
+   }
+   .fac{
+       /* width: 50%; */
+       background-color: whitesmoke; 
+       display: flex;
+   }
+   .learn{
+      
+       /* margin-bottom: 20px; */
+       width: 44%
+       
+   }
+   .learning{
+       border-style: solid;
+       padding: 15%;
+       margin-top: 100px;
+       box-shadow: 1px 1px 20px 1px;
+       border-color: white;
+       background-color: white;
+       border-radius: 3%; 
+       height: 520px; 
+   }
+   .sta{
+       /* border-style: dotted; */
+       width: 50%;
+   }
+   .imaga{
+       width: 980px;
+       /* border-style: dotted; */
+   }
+   .text{
+       text-align: center;
+   }
+   .art{
+       padding: 5%;
+       background-color: whitesmoke;
+   } 
+   .link{
+       cursor: pointer;
+       color: #007bff;
+   }
+   .techstudio{
+       width: 600px;
+       /* border-style: dotted; */
+   }
+   .studioacademy{
+     width: 550px;
+     /* border-style: double; */
+     height: 500px;
+     
+     
+     
+   }
+   .techcontainer{
+       display: flex;
+       padding: 4%;
+   }
+   .acade{
+       margin-left: 90px;
+       /* padding-right: 80%; */
+       /* border-style: double; */
+   }
+   .academy{
+       margin-bottom: 120px;
+       font-weight: bold;
+   }
+   .font,.prof,.career{
+       font-weight: 700;
+   }
+   .flexcontain{
+       display: flex;
+       padding: 0.25%;
+   }
+   .smileimage{
+    width: 50%;
+    /* border-style: double; */
+   }
+   .excellent{
+   width: 50%;
+   /* border-style: solid; */
+   padding: 5%;
+   
+   
+   }
+   .careerimage{
+    width:700px;
+    margin-left: 60px;
+   }
+   .overallcontainer{
+       padding: 18%;
+   }
+   .sup{
+   text-align: center;
+   
+   }
+   .car{
+       font-weight: bold;
+   }
+   .guide{
+       font-weight: bold;
+       font-family: Arial, 
+   }
+   .pac{
+       background-color: #007bff;
+       color: white;
+       border-color: #007bff;
+       border-radius: 5%;
+       height: 50px;
+       width: 40%;
+   }
+   .our{
+    padding: 5%;
+   }
+   .support{
+    padding-left: 10%;
+   }
+   .as{
+       padding: 2%;
+       margin-top: 5px;
+   }
+   .whitesmoke{
+       border-style: solid;
+       background-color: whitesmoke;
+       padding: 5%;
+       border-color: whitesmoke;
+   }
+   .interest{
+   display: flex;
+   background-color: #007bff;
+   width: 60%;
+   margin-left: 200px;
+   height: 150px;
+   border-style: solid;
+   border-color: #007bff;
+   border-radius: 10px;
+   
+   }
+   .gram{
+       margin-left: 100px;
+       margin-top: 20px;
+       color: white;
+       font-weight: 600 ;
+      
+   }
+   .what{
+      width: 50%;
+   }
+   .butget{
+       
+       height: 50px;
+       width: 180px;
+       border-radius: 5px;
+       border-color: #007bff;
+       color: #007bff;
+       background-color: white   
+   }
+   .age{
+       padding: 5%;
+       width: 20%;
+       margin-left: 100px;
+   }
+   .frequently{
+       padding: 8%;
+   }
+   .headerques{
+       text-align: center;
+   }
+   .betterflex{
+       display: flex;
+       padding: 3%;
+   }
+   .better{
+       width: 50%;
+   
+   }
+   .Expect{
+       width: 50%;
+   }
+   .asked,.why,.pactical,.with,.To,.in{
+    font-weight: 700;
+   }
+   .gat{
+       border-color: #007bff;
+       background-color: #007bff;
+       border-radius: 8px;
+       color: white;
+       height: 50px;
+       width: 40%
+   }
+   .hear{
+       padding: 3%;
+   }
+   .blue{
+       background-color: #007bff;
+       padding: 10%;
+   }
+   
+   .flexer{
+       display: flex;
+      
+   }
+   .started{
+       border-style: solid;
+       width: 60%;
+       background-color: white;
+       border-color: white;
+       padding: 5%;
+      
+   }
+   .Red{
+       border-style: solid;
+       width: 40%;
+       background-color: #dc3545;
+       margin-left: 60px;
+       border-color: #dc3545;
+       padding: 5%;
+   }
+   .weeks{
+       border-radius: 7px;
+       border-color: #007bff;
+       background-color: #007bff;
+       color: white;
+       width: 300px;
+       height: 50px;
+   }
+   .black{
+       background-color: black;
+       padding: 5%;
+   }
+   .flexme{
+       display: flex;
+   }
+   .letter{
+     margin-left: 300px;
+   }
+   .media{
+    margin-left: 200px;
+    color: white;
+    
+   
+   }
+   .addy{
+      color: white;
+      margin-left: 8px;
+   }
+   .me{
+       padding-right: 10%;
+   }
+   
+   .logowhite{
+       width: 30px;
+       float: left;
+   }
+   .formnews{
+       border-color: white;
+       margin-bottom: 20px;
+       height: 55px;
+       width: 400px
+   }
+   .su{
+       background-color: #007bff;
+       border-color: #007bff;
+       height: 55px;
+       width: 400px
+       
+   }
+   .up{
+       color: white;
+   }
+}
+
+
