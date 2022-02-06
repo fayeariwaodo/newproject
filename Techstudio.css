@@ -765,7 +765,7 @@ font-size: 87%;
     } */
     .java{
      /* margin-top: 20px; */
-     background-image: url(../IMAGETECHSTUDIO/bg\ \(3\).jpg);
+     background-image: url(./IMAGETECHSTUDIO/bg\ \(3\).jpg);
      height: 997px;
      color: white;
      padding: 1%;
@@ -1479,15 +1479,15 @@ font-size: 87%;
         /* padding: 0.50%; */
         margin-left: 45px;
     }
-     /* .nav{
+     .nav{
      width: 43%;
      font-size: 15px;
-       margin-left: 70px;
+       margin-left: 7px;
        margin-top:33px ; 
-       border-style: double;
+       /* border-style: double; */
        width: 330px;
        
-     } */
+     }
      .Down,.Log,.Reg{
          text-decoration: none;
          /* padding-left: 5%; */
@@ -1519,7 +1519,7 @@ font-size: 87%;
     } */
     .java{
      /* margin-top: 20px; */
-     background-image: url(../IMAGETECHSTUDIO/bg\ \(3\).jpg);
+     background-image: url(./IMAGETECHSTUDIO/bg\ \(3\).jpg);
      height: 997px;
      color: white;
      padding: 1%;
@@ -1780,7 +1780,7 @@ font-size: 87%;
    }
    .student{
     width: 100%;
-    /* margin-left: -100px; */
+    margin-left: -100px;
 }
 
    .writer{
@@ -2185,7 +2185,7 @@ font-size: 87%;
        /* border-color: #007bff; */
        background-color: #007bff;
        color: white;
-       width: 248px;
+       width: 216px;
        height: 50px;
    }
    .black{
@@ -2198,7 +2198,7 @@ font-size: 87%;
    .letter{
     margin-left: 40px;   }
    .media{
-    margin-left: 33px;
+   margin-left: 4px;
     color: white;
    
    }
