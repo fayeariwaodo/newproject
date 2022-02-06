@@ -38,7 +38,7 @@
  }
  .java{
   /* margin-top: 20px; */
-  background-image: url(../IMAGETECHSTUDIO/bg\ \(3\).jpg);
+  background-image: url(./IMAGETECHSTUDIO/bg\ \(3\).jpg);
   height: 540px;
   color: white;
   padding: 1%;
@@ -1497,6 +1497,7 @@ font-size: 87%;
         height: 20px;
         margin-left: 600px;
         width: 50px;
+        
        background-color: #007bff;
       }
     .logoclass{
