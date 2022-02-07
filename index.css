@@ -1,3 +1,6 @@
+ 
+ 
+ 
  .flexlogoarch{
      display: flex;
      /* padding: 0.50%; */
@@ -1051,7 +1054,7 @@ font-size: 87%;
         display: block;
         width: 100%;
         padding: 5%;
-        margin-left: 162px;
+        margin-left: 0px;
          /* border-style: dotted; */
          /* padding-left: 250px; */
      }
@@ -1578,11 +1581,11 @@ font-size: 87%;
        width:  100%;
        padding: 5%;
     }
-    /* .javacontain{
+    .javacontain{
         display: flex;
-        width: 55%;
+        width: 100%;
    
-    } */
+    }
     .pap{
         padding-top: 5%;
      /* padding-left: 3%; */
@@ -1817,24 +1820,30 @@ font-size: 87%;
    .skills{
     width: 100%;
     margin-left: 0px;
+    padding-left: 30px;
 }
    
    .student{
     width: 100%;
+    padding-left: 30px;
     margin-left: 0px;
 }
 
    .writer{
     font-size: 12px;
-    width: 203px;
+    width: 100%;
+    padding-left: 30px;
        /* width: 263px; */
        /* margin-left: 198px; */
    }
      .activities{
         display: block;
         width: 100%;
-        padding: 5%;
-        margin-left: 0px;
+        text-align: center;
+        /* display: grid;
+        place-content: center; */
+        /* padding: 5%;
+        margin-left: 50px; */
          /* border-style: dotted; */
          /* padding-left: 250px; */
      }
@@ -1853,11 +1862,11 @@ font-size: 87%;
      }
      .hands{
         font-size: 12px;
-        width: 203px;
+        width: auto;
      }
      .grad{
         font-size: 12px;
-        width: 203px;     }
+        width: auto;     }
      .week{
          /* margin-left: 53px; */
          /* width: 149px; */
