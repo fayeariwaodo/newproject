@@ -377,13 +377,12 @@
       font-size: 1.6px;
   }
   .imgsticky{
-   position: -webkit-sticky;
-   position: sticky;
-   left:1135px;
-   bottom: 90px
-   width="4%"
-
-  }
+        position: -webkit-sticky;
+        position: sticky;
+        left:1135px;
+        bottom: 90px
+     
+       }
 .General{
     display: flex;
     padding: 4%;
@@ -1119,13 +1118,15 @@ font-size: 87%;
          font-weight: bolder;
          font-size: 1.6px;
      }
-     .imgsticky{
-      position: -webkit-sticky;
-      position: sticky;
-      left:1135px;
-      bottom: 90px
+  .imgsticky{
+        position: -webkit-sticky;
+        position: sticky;
+        left:1135px;
+        bottom: 90px
+     
+       }
    
-     }
+     
    .General{
        display: block;
        padding: 4%;
@@ -1912,12 +1913,13 @@ font-size: 87%;
          font-size: 17px;
      }
      .imgsticky{
-      position: -webkit-sticky;
-      position: sticky;
-      left:1135px;
-      bottom: 90px
-   
-     }
+        position: -webkit-sticky;
+        position: sticky;
+        left:1135px;
+        bottom: 90px
+     
+       }
+     
    .General{
        display: block;
        padding: 4%;
