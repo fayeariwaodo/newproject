@@ -381,6 +381,7 @@
    position: sticky;
    left:1135px;
    bottom: 90px
+   width="4%"
 
   }
 .General{
@@ -1477,11 +1478,11 @@ font-size: 87%;
     .flexlogoarch{
         display:block;
         /* padding: 0.50%; */
-        margin-left: 45px;
+        /* margin-left: 45px; */
     }
      .nav{
      width: 43%;
-     font-size: 15px;
+     font-size: 12px;
        margin-left: 7px;
        margin-top:33px ; 
        /* border-style: double; */
@@ -1510,8 +1511,11 @@ font-size: 87%;
     /* .parra{
      margin-top: -30px;   
     } */
-    .fontbold{
-        font-size: 15px;
+    .fonbold{
+        font-size: 17px;
+    }
+    .parra{
+        font-size: 12px;
     }
     /* .Techaca{
       margin-top: 15px;
@@ -1538,8 +1542,8 @@ font-size: 87%;
     .full{
        /* margin-top: 25px; */
        /* margin-left: 25px; */
-       width: 298px;
-       /* padding: 5%; */
+       width:  383px;
+       padding: 5%;
     }
     /* .javacontain{
         display: flex;
@@ -1551,10 +1555,11 @@ font-size: 87%;
      /* padding-left: 3%; */
      width: 319px;
     }
+
     .papa{
         border-style: solid;
         border-color: white;
-         width: 80%;
+         width: 100%;
          background-color: white;
          color: black;
         padding: 2%;
@@ -1710,6 +1715,9 @@ font-size: 87%;
        /* height: 400px; */
         margin-left: 38px;
       }
+      .comment1,.commnet2,.comment3{
+        font-size: 12px;
+      }
       .ptestimonial{
        /* border-style: solid; */
        width: 73%;
@@ -1784,7 +1792,8 @@ font-size: 87%;
 }
 
    .writer{
-       font-size: 17px;
+    font-size: 12px;
+    width: 203px;
        /* width: 263px; */
        /* margin-left: 198px; */
    }
@@ -1797,25 +1806,25 @@ font-size: 87%;
          /* padding-left: 250px; */
      }
      .expert,.bootcamp,.develop{
-        width: 238px;
+        width: 164px;
 
      }
      
      .dev{
          /* display: flex; */
-         font-size: 21px;
+         font-size: 24px;
      }
      .explore{
-         width: 84%;
+         width: 100%;
+         font-size: 9px;
      }
      .hands{
-        font-size: 17px;
-        width: 286px;
+        font-size: 12px;
+        width: 203px;
      }
      .grad{
-        font-size: 17px;
-      width: 282px;
-     }
+        font-size: 12px;
+        width: 203px;     }
      .week{
          /* margin-left: 53px; */
          /* width: 149px; */
@@ -1842,18 +1851,23 @@ font-size: 87%;
        padding: 2%;
        width: 100%;
        font-weight: 700;
+       font-size: 15px;
          }
      .studioimaga{
-        width: 628px;  
+        /* width: 628px;   */
+        /* width: 300px; */
+        object-fit: contain;
+        max-width: 100%;
+        max-height: 100%;
       }
     .developerweb{
         width: 100%;
         /* padding: 1%; */
-        font-size: 17px;
-     }
+        font-size: 12px;     }
      .Studentslife{
          display: block;
          width: 100%;
+        
      }
      .web{
          /* width: 600px; */
@@ -1886,11 +1900,16 @@ font-size: 87%;
          width: 100%;
          /* margin-left: 200px; */
          /* margin-top: 20px; */
-         
+     }
+     .whe{
+         font-size: 12px;
+     }
+     .para1,.para2,.para3,.para4,.para5,.para6,.para7{
+         font-size: 12px;
      }
      .stu{
          font-weight: bolder;
-         font-size: 1.6px;
+         font-size: 17px;
      }
      .imgsticky{
       position: -webkit-sticky;
@@ -1926,22 +1945,26 @@ font-size: 87%;
        display: block;
    }
    .learn{
-      
+     
        /* margin-bottom: 20px; */
-       width: 44%
+       width: 100%
        
+   }
+   .wor{
+       font-size: 12px;
    }
    .learning{
       border-style: solid;
        padding: 2%;
-       margin-top: 42px;
+       margin-top: 35px;
        box-shadow: 1px 1px 20px 1px;
        border-color: white;
        background-color: white;
        border-radius: 3%;
        /* height: 520px; */
-       font-size: 82%;
-       width:436px;   }
+       font-size: 12px;
+       width:100%;  
+     }
    
    .sta{
        /* border-style: dotted; */
@@ -1949,7 +1972,7 @@ font-size: 87%;
    }
    .imaga{
        object-fit: contain;
-       max-width: 135%;
+       max-width: 100%;
        max-height: 100%;
        /* width: 980px; */
        /* border-style: dotted; */
@@ -1967,14 +1990,12 @@ font-size: 87%;
    }
    .techstudio{
        /* width: 50%; */
-       object-fit: contain;
-       max-width: 100%;
-       max-height: 100%;
+     width: 295px;
        /* border-style: dotted; */
    }
    .studioacademy{
-    width: 555px;
-    font-size: 20px;
+    width: 100%;
+    font-size: 12px;
     /* border-style: double; */
     /* height: 500px; */
     padding: 5%;
@@ -1996,8 +2017,8 @@ font-size: 87%;
        /* font-size: 15px;  */
        /* text-align: center;    */
        /* margin-bottom: 120px; */
-       font-size: 30px;
-       width: 495px;
+       font-size: 17px;
+       width: 80%;
    }
    .font,.prof,.career{
        font-weight: 700;
@@ -2007,16 +2028,18 @@ font-size: 87%;
        padding: 2%;
    }
    .smileimage{
-    width: 55%;
+    width: 100%;
     /* border-style: double; */
    }
    .excellent{
    width: 45%;
    /* border-style: solid; */
    /* padding: 5%; */
-   
-   
-   }
+    }
+    .gu{
+        width: 288px;
+        font-size: 12px;
+    }
    .careerimage{
     width:610px;
     /* margin-left: 60px;  */
@@ -2031,11 +2054,11 @@ font-size: 87%;
    }
    .car{
     padding: 2%;
-    width: 629px;
+    width: 100%;
    }
    .guide{
-    font-size: 21px;
-    width: 529px;
+    font-size: 17px;
+    width: 300px;
     padding: 5%;
 
    }
@@ -2047,10 +2070,12 @@ font-size: 87%;
     /* border-color: #007bff; */
     border-radius: 5%;
     height: 60px;
-    width: 210px;
-    font-size: 20px;
+    width: 176px;
+    font-size: 17px;
    }
    .our{
+    width: 304px;
+    font-size: 12px;
     padding: 5%;
    }
    .support{
@@ -2061,9 +2086,9 @@ font-size: 87%;
    .as{
     padding: 2%;
     margin-top: 5px;
-    width: 641px;
-    font-size: 20px;
-    margin-left: 125px;
+    width: 100%;
+    font-size: 12px;
+    /* margin-left: 125px; */
    }
    .whitesmoke{
        /* margin-right: 60px; */
@@ -2094,14 +2119,13 @@ font-size: 87%;
        font-size: 23px;      
    }
    .what{
-          /* width: 55%; */
-    font-size: 11px;
-    /* margin-top: 19px; */
+    width: 100%;
+    font-size: 12px;
 }
    .butget{
     cursor: pointer;
-    height: 50px;
-    width: 192px;
+    height: 40px;
+    width: 171px;
     border-radius: 5px;
     border-style: none;
     /* border-color: #007bff; */
@@ -2135,6 +2159,10 @@ font-size: 87%;
    }
    .asked,.why,.pactical,.with,.To,.in{
     font-weight: 700;
+    font-size: 17px;
+   }
+   .hear,.fon,.by,.lap{
+       font-size: 12px;
    }
    .gat{
        /* border-color: #007bff; */
@@ -2144,7 +2172,7 @@ font-size: 87%;
        border-radius: 8px;
        color: white;
        height: 50px;
-       width: 45%
+       width: 50%
        
    }
    /* .hear{
@@ -2154,10 +2182,19 @@ font-size: 87%;
        background-color: #007bff;
        padding: 10%;
    }
-   
+   .tog,.pow{
+     font-size: 12px;
+   }
    .flexer{
        display: block;
       
+   }
+   .jav{
+       font-size: 17px;
+       font-weight: 700;
+   }
+   .p1,.p2,.p3,.p4,.p5,.p6,.p7,.p8{
+       font-size: 12px;
    }
    .started{
        border-style: solid;
@@ -2185,7 +2222,7 @@ font-size: 87%;
        /* border-color: #007bff; */
        background-color: #007bff;
        color: white;
-       width: 216px;
+       width: 198px;
        height: 50px;
    }
    .black{
@@ -2198,15 +2235,19 @@ font-size: 87%;
    .letter{
     margin-left: 40px;   }
    .media{
+       font-size: 12px;
    margin-left: 4px;
     color: white;
    
+   }
+   .tec{
+       font-size: 12px;
    }
    .addy{
     color: white;
     margin-left: 48px;
     width: 220px;
-    font-size: 87%;
+    font-size: 12px;
     /* margin-top: 44px; */
    }
    .me{
@@ -2244,6 +2285,6 @@ font-size: 87%;
    }
    .up{
        color: white;
-       font-size: 87%;
+       font-size: 12px;
    }
 }
